@@ -45,6 +45,7 @@ If you have any questions, suggestions, or issues regarding this project, please
 📧 pknu.cqmlab@gmail.com
 
 
+_Last updated: April 26, 2025_
 ---
 
 
@@ -97,4 +98,5 @@ Thin-films-Color-simulation은 **다층 박막(multilayer thin films)** 의 색�
 📧 pknu.cqmlab@gmail.com
 
 
+_최종 업데이트: 2025년 4월 26일_
 ---
