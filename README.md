@@ -32,7 +32,9 @@ For theoretical background and implementation details, see the citation section 
 
 If you find this code useful, please cite:
 
-> Dongik Lee and Seunghun Lee, **Color simulation of Multilayered Thin Films Using Python**, *Advances Sciences* (accepted, the link to be updated) (2025).  
+> Dongik Lee and Seunghun Lee, **Color simulation of Multilayered Thin Films Using Python**, *Advances Sciences* **15**(9), 4814 (2025)
+link: [https://www.mdpi.com/2076-3417/15/9/4814](https://www.mdpi.com/2076-3417/15/9/4814)
+
 > Preprint on ArXiv: [https://doi.org/10.48550/arXiv.2412.12828](https://doi.org/10.48550/arXiv.2412.12828)
 
 This work also provides ample background on the underlying physics and implementation,  
@@ -85,7 +87,8 @@ Thin-films-Color-simulation은 **다층 박막(multilayer thin films)** 의 색�
 
 본 코드를 사용하셨다면 다음 논문을 인용해 주세요:
 
-> Dongik Lee and Seunghun Lee, **Color simulation of Multilayered Thin Films Using Python**, *Advances Sciences* (accepted, 링크 업데이트 예정) (2025).  
+> Dongik Lee and Seunghun Lee, **Color simulation of Multilayered Thin Films Using Python**, *Advances Sciences* **15**(9), 4814 (2025)
+link: [https://www.mdpi.com/2076-3417/15/9/4814](https://www.mdpi.com/2076-3417/15/9/4814)
 > Preprint on ArXiv: [https://doi.org/10.48550/arXiv.2412.12828](https://doi.org/10.48550/arXiv.2412.12828)
 
 본 연구는 기본적인 전자기학(electrodynamics) 이론(예: 프레넬 방정식(Fresnel equations))부터  
