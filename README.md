@@ -38,8 +38,15 @@ If you find this code useful, please cite:
 This work also provides ample background on the underlying physics and implementation,  
 *from basic electrodynamics (including the Fresnel equations) to the conversion of reflectance spectra to RGB values using a color matching function.*
 
+## Contact
 
-# Thin-films-Color-simulation
+If you have any questions, suggestions, or issues regarding this project, please feel free to contact us at:
+
+📧 pknu.cqmlab@gmail.com
+
+
+
+# 박막 색상 시뮬레이션
 
 > 🇰🇷 한글 버전
 
@@ -80,3 +87,9 @@ Thin-films-Color-simulation은 **다층 박막(multilayer thin films)** 의 색�
 본 연구는 기본적인 전자기학(electrodynamics) 이론(예: 프레넬 방정식(Fresnel equations))부터  
 반사 스펙트럼을 색상 매칭 함수를 이용하여 RGB 값으로 변환하는 과정에 이르기까지,  
 기초 물리 및 구현 방법에 대한 충분한 배경 설명도 함께 제공합니다.
+
+## 문의
+
+본 프로젝트에 대한 질문, 제안사항, 또는 문제가 있으시면 언제든지 아래 이메일로 연락해 주세요:
+
+📧 pknu.cqmlab@gmail.com
