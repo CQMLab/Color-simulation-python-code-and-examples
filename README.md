@@ -1,6 +1,6 @@
 # Thin-films-Color-simulation
 
-> 🇺🇸 English Version
+> 🇺🇸 English
 
 Thin-films-Color-simulation is a Python-based project developed to simulate the **color of multilayer thin films** by considering optical properties such as reflectance, transmittance, attenuation, and interference effects.
 
