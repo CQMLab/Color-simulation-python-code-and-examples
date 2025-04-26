@@ -45,6 +45,8 @@ If you have any questions, suggestions, or issues regarding this project, please
 📧 pknu.cqmlab@gmail.com
 
 
+---
+
 
 # 박막 색상 시뮬레이션
 
@@ -93,3 +95,6 @@ Thin-films-Color-simulation은 **다층 박막(multilayer thin films)** 의 색�
 본 프로젝트에 대한 질문, 제안사항, 또는 문제가 있으시면 언제든지 아래 이메일로 연락해 주세요:
 
 📧 pknu.cqmlab@gmail.com
+
+
+---
